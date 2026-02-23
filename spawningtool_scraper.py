@@ -3,12 +3,13 @@ Spawning Tool 프로 리플레이 빌드오더 스크래퍼 (비동기 버전)
 - 5.0.15 패치 이후 (2025년 10월~) 프로토스 빌드오더만 수집
 - 프로 리플레이에서 파싱된 빌드오더 데이터를 가져옴
 사용법:
-  uv add aiohttp beautifulsoup4 pandas
+  uv add aiohttp beautifulsoup4
   uv run python spawningtool_scraper.py
 """
 import asyncio
 import aiohttp
 from bs4 import BeautifulSoup
+from datetime import datetime
 import json
 import re
 from typing import Optional
@@ -269,6 +270,40 @@ async def scrape_protoss_builds(
     return all_builds
 
 
+def parse_date(date_str: str) -> Optional[datetime]:
+    """Spawning Tool 날짜 문자열을 datetime으로 파싱"""
+    if not date_str:
+        return None
+    month_map = {
+        "Jan.": 1, "Feb.": 2, "Mar.": 3, "Apr.": 4,
+        "May": 5, "June": 6, "July": 7, "Aug.": 8,
+        "Sept.": 9, "Oct.": 10, "Nov.": 11, "Dec.": 12,
+    }
+    for mstr, mnum in month_map.items():
+        if mstr in date_str:
+            year_match = re.search(r"(\d{4})", date_str)
+            day_match = re.search(r"(\d{1,2}),", date_str)
+            if year_match and day_match:
+                return datetime(int(year_match.group(1)), mnum, int(day_match.group(1)))
+    return None
+
+
+def filter_by_date(builds: list[dict], after: str) -> list[dict]:
+    """date_played 기준으로 날짜 필터링 (after: 'YYYY-MM-DD')"""
+    cutoff = datetime.strptime(after, "%Y-%m-%d")
+    filtered = []
+    removed = 0
+    for b in builds:
+        d = parse_date(b.get("date_played", ""))
+        if d is None or d >= cutoff:
+            filtered.append(b)
+        else:
+            removed += 1
+    if removed:
+        print(f"\n[필터] 날짜 필터 적용: {removed}개 제거 ({after} 이전)")
+    return filtered
+
+
 def export_builds(builds: list[dict], filename: str = "protoss_builds_post_patch.json"):
     """수집된 데이터를 JSON으로 저장"""
     with open(filename, "w", encoding="utf-8") as f:
@@ -296,6 +331,9 @@ async def async_main():
     if not builds:
         print("\n수집된 빌드가 없습니다.")
         return
+
+    # 후처리: 상세 페이지의 실제 플레이 날짜로 재필터링
+    builds = filter_by_date(builds, AFTER_PLAYED_ON)
 
     export_builds(builds)
     print(f"\n총 {len(builds)}개 경기 수집 완료")
