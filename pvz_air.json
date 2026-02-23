@@ -1,0 +1,4325 @@
+[
+  {
+    "replay_id": 89567,
+    "url": "https://lotv.spawningtool.com/89567/",
+    "players": [
+      {
+        "name": "Lambo",
+        "race": "Zerg",
+        "build_order": [
+          {
+            "supply": "12",
+            "time": "0:00",
+            "action": "Drone"
+          },
+          {
+            "supply": "13",
+            "time": "0:08",
+            "action": "Drone"
+          },
+          {
+            "supply": "14",
+            "time": "0:17",
+            "action": "Overlord"
+          },
+          {
+            "supply": "14",
+            "time": "0:22",
+            "action": "Extractor"
+          },
+          {
+            "supply": "14",
+            "time": "0:23",
+            "action": "Drone"
+          },
+          {
+            "supply": "15",
+            "time": "0:35",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "17",
+            "time": "0:38",
+            "action": "Extractor"
+          },
+          {
+            "supply": "16",
+            "time": "0:43",
+            "action": "Drone"
+          },
+          {
+            "supply": "16",
+            "time": "0:49",
+            "action": "Spawning Pool"
+          },
+          {
+            "supply": "16",
+            "time": "0:54",
+            "action": "Drone"
+          },
+          {
+            "supply": "17",
+            "time": "1:05",
+            "action": "Drone"
+          },
+          {
+            "supply": "18",
+            "time": "1:17",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "17",
+            "time": "1:35",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "17",
+            "time": "1:36",
+            "action": "Queen"
+          },
+          {
+            "supply": "20",
+            "time": "1:40",
+            "action": "Metabolic Boost"
+          },
+          {
+            "supply": "20",
+            "time": "1:44",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "21",
+            "time": "1:51",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "22",
+            "time": "2:01",
+            "action": "Overlord"
+          },
+          {
+            "supply": "22",
+            "time": "2:19",
+            "action": "Queen"
+          },
+          {
+            "supply": "22",
+            "time": "2:21",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "26",
+            "time": "2:26",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "27",
+            "time": "2:31",
+            "action": "Queen"
+          },
+          {
+            "supply": "27",
+            "time": "2:34",
+            "action": "Overlord"
+          },
+          {
+            "supply": "27",
+            "time": "2:36",
+            "action": "Drone"
+          },
+          {
+            "supply": "30",
+            "time": "2:49",
+            "action": "Drone"
+          },
+          {
+            "supply": "30",
+            "time": "2:50",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "33",
+            "time": "2:52",
+            "action": "Drone x3"
+          },
+          {
+            "supply": "36",
+            "time": "3:02",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "38",
+            "time": "3:16",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "38",
+            "time": "3:18",
+            "action": "Drone"
+          },
+          {
+            "supply": "38",
+            "time": "3:20",
+            "action": "Drone"
+          },
+          {
+            "supply": "38",
+            "time": "3:23",
+            "action": "Drone"
+          },
+          {
+            "supply": "40",
+            "time": "3:27",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "40",
+            "time": "3:32",
+            "action": "Overlord"
+          },
+          {
+            "supply": "42",
+            "time": "3:40",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "44",
+            "time": "3:44",
+            "action": "Overlord"
+          },
+          {
+            "supply": "44",
+            "time": "3:50",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "44",
+            "time": "3:54",
+            "action": "Queen"
+          },
+          {
+            "supply": "50",
+            "time": "3:57",
+            "action": "Drone"
+          },
+          {
+            "supply": "50",
+            "time": "3:59",
+            "action": "Drone"
+          },
+          {
+            "supply": "52",
+            "time": "4:03",
+            "action": "Spore Crawler"
+          },
+          {
+            "supply": "52",
+            "time": "4:04",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "53",
+            "time": "4:11",
+            "action": "Queen"
+          },
+          {
+            "supply": "53",
+            "time": "4:15",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "53",
+            "time": "4:16",
+            "action": "Drone"
+          },
+          {
+            "supply": "58",
+            "time": "4:18",
+            "action": "Drone"
+          },
+          {
+            "supply": "58",
+            "time": "4:20",
+            "action": "Drone"
+          },
+          {
+            "supply": "58",
+            "time": "4:23",
+            "action": "Overlord"
+          },
+          {
+            "supply": "60",
+            "time": "4:25",
+            "action": "Overlord"
+          },
+          {
+            "supply": "60",
+            "time": "4:29",
+            "action": "Spore Crawler"
+          },
+          {
+            "supply": "59",
+            "time": "4:41",
+            "action": "Overlord"
+          },
+          {
+            "supply": "59",
+            "time": "4:42",
+            "action": "Overlord"
+          },
+          {
+            "supply": "59",
+            "time": "4:43",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "63",
+            "time": "4:46",
+            "action": "Drone"
+          },
+          {
+            "supply": "63",
+            "time": "4:48",
+            "action": "Drone"
+          },
+          {
+            "supply": "63",
+            "time": "4:50",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "67",
+            "time": "4:53",
+            "action": "Drone"
+          },
+          {
+            "supply": "67",
+            "time": "4:54",
+            "action": "Drone x3"
+          },
+          {
+            "supply": "67",
+            "time": "4:59",
+            "action": "Roach Warren"
+          },
+          {
+            "supply": "69",
+            "time": "5:02",
+            "action": "Lair"
+          },
+          {
+            "supply": "69",
+            "time": "5:03",
+            "action": "Extractor"
+          },
+          {
+            "supply": "68",
+            "time": "5:07",
+            "action": "Extractor"
+          },
+          {
+            "supply": "68",
+            "time": "5:08",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "68",
+            "time": "5:10",
+            "action": "Drone"
+          },
+          {
+            "supply": "68",
+            "time": "5:11",
+            "action": "Drone"
+          },
+          {
+            "supply": "68",
+            "time": "5:12",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "73",
+            "time": "5:18",
+            "action": "Drone"
+          },
+          {
+            "supply": "73",
+            "time": "5:19",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "73",
+            "time": "5:20",
+            "action": "Drone"
+          },
+          {
+            "supply": "77",
+            "time": "5:25",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "77",
+            "time": "5:27",
+            "action": "Drone x2,Hatchery"
+          },
+          {
+            "supply": "80",
+            "time": "5:29",
+            "action": "Drone"
+          },
+          {
+            "supply": "80",
+            "time": "5:31",
+            "action": "Drone"
+          },
+          {
+            "supply": "80",
+            "time": "5:34",
+            "action": "Extractor"
+          },
+          {
+            "supply": "81",
+            "time": "5:36",
+            "action": "Drone,Extractor"
+          },
+          {
+            "supply": "81",
+            "time": "5:37",
+            "action": "Extractor"
+          },
+          {
+            "supply": "81",
+            "time": "5:39",
+            "action": "Overlord"
+          },
+          {
+            "supply": "81",
+            "time": "5:41",
+            "action": "Drone"
+          },
+          {
+            "supply": "81",
+            "time": "5:47",
+            "action": "Drone"
+          },
+          {
+            "supply": "82",
+            "time": "5:50",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "82",
+            "time": "5:51",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "82",
+            "time": "5:53",
+            "action": "Drone x3"
+          },
+          {
+            "supply": "82",
+            "time": "5:54",
+            "action": "Evolution Chamber"
+          },
+          {
+            "supply": "87",
+            "time": "5:58",
+            "action": "Roach x3"
+          },
+          {
+            "supply": "87",
+            "time": "6:02",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "97",
+            "time": "6:05",
+            "action": "Overseer"
+          },
+          {
+            "supply": "97",
+            "time": "6:10",
+            "action": "Spire"
+          },
+          {
+            "supply": "96",
+            "time": "6:14",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "96",
+            "time": "6:16",
+            "action": "Glial Reconstitution"
+          },
+          {
+            "supply": "96",
+            "time": "6:18",
+            "action": "Overlord"
+          },
+          {
+            "supply": "97",
+            "time": "6:20",
+            "action": "Overlord"
+          },
+          {
+            "supply": "97",
+            "time": "6:21",
+            "action": "Overlord x2"
+          },
+          {
+            "supply": "97",
+            "time": "6:23",
+            "action": "Overlord"
+          },
+          {
+            "supply": "97",
+            "time": "6:25",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "98",
+            "time": "6:32",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "98",
+            "time": "6:33",
+            "action": "Overlord"
+          },
+          {
+            "supply": "98",
+            "time": "6:40",
+            "action": "Drone x7"
+          },
+          {
+            "supply": "98",
+            "time": "6:45",
+            "action": "Queen"
+          },
+          {
+            "supply": "98",
+            "time": "6:46",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "111",
+            "time": "6:54",
+            "action": "Drone"
+          },
+          {
+            "supply": "111",
+            "time": "6:55",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "111",
+            "time": "6:58",
+            "action": "Extractor x2"
+          },
+          {
+            "supply": "112",
+            "time": "7:07",
+            "action": "Zerg Missile Weapons Level 1"
+          },
+          {
+            "supply": "112",
+            "time": "7:13",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "112",
+            "time": "7:14",
+            "action": "Overlord"
+          },
+          {
+            "supply": "109",
+            "time": "7:16",
+            "action": "Corruptor x6"
+          },
+          {
+            "supply": "109",
+            "time": "7:18",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "109",
+            "time": "7:22",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "125",
+            "time": "7:33",
+            "action": "Corruptor x2"
+          },
+          {
+            "supply": "125",
+            "time": "7:36",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "128",
+            "time": "7:41",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "125",
+            "time": "7:55",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "125",
+            "time": "7:57",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "125",
+            "time": "8:00",
+            "action": "Roach x3"
+          },
+          {
+            "supply": "125",
+            "time": "8:03",
+            "action": "Overlord"
+          },
+          {
+            "supply": "125",
+            "time": "8:04",
+            "action": "Extractor"
+          },
+          {
+            "supply": "130",
+            "time": "8:07",
+            "action": "Extractor"
+          },
+          {
+            "supply": "130",
+            "time": "8:08",
+            "action": "Overlord x2"
+          },
+          {
+            "supply": "129",
+            "time": "8:13",
+            "action": "Roach"
+          },
+          {
+            "supply": "129",
+            "time": "8:14",
+            "action": "Overlord x2"
+          },
+          {
+            "supply": "129",
+            "time": "8:18",
+            "action": "Baneling Nest"
+          },
+          {
+            "supply": "129",
+            "time": "8:19",
+            "action": "Zerg Flyer Weapons Level 1"
+          },
+          {
+            "supply": "130",
+            "time": "8:28",
+            "action": "Roach x8"
+          },
+          {
+            "supply": "147",
+            "time": "8:38",
+            "action": "Roach x3"
+          },
+          {
+            "supply": "147",
+            "time": "8:39",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "161",
+            "time": "8:41",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "161",
+            "time": "8:45",
+            "action": "Roach x2,Overlord"
+          },
+          {
+            "supply": "165",
+            "time": "8:50",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "165",
+            "time": "8:54",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "171",
+            "time": "8:59",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "173",
+            "time": "9:03",
+            "action": "Zergling x10"
+          },
+          {
+            "supply": "173",
+            "time": "9:08",
+            "action": "Ravager x4"
+          },
+          {
+            "supply": "173",
+            "time": "9:09",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "184",
+            "time": "9:17",
+            "action": "Zergling x12"
+          },
+          {
+            "supply": "184",
+            "time": "9:18",
+            "action": "Infestation Pit,Ravager x2"
+          },
+          {
+            "supply": "184",
+            "time": "9:20",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "193",
+            "time": "9:24",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "193",
+            "time": "9:27",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "193",
+            "time": "9:31",
+            "action": "Overlord"
+          },
+          {
+            "supply": "197",
+            "time": "9:45",
+            "action": "Roach"
+          },
+          {
+            "supply": "197",
+            "time": "9:52",
+            "action": "Roach x8"
+          },
+          {
+            "supply": "199",
+            "time": "9:57",
+            "action": "Roach x3"
+          },
+          {
+            "supply": "199",
+            "time": "9:58",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "195",
+            "time": "10:02",
+            "action": "Roach x4"
+          },
+          {
+            "supply": "195",
+            "time": "10:06",
+            "action": "Roach x5"
+          },
+          {
+            "supply": "198",
+            "time": "10:12",
+            "action": "Roach x3"
+          },
+          {
+            "supply": "194",
+            "time": "10:29",
+            "action": "Zergling x10"
+          },
+          {
+            "supply": "194",
+            "time": "10:31",
+            "action": "Hive"
+          },
+          {
+            "supply": "194",
+            "time": "10:51",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "194",
+            "time": "10:52",
+            "action": "Zergling x16"
+          },
+          {
+            "supply": "191",
+            "time": "11:00",
+            "action": "Roach x10"
+          },
+          {
+            "supply": "191",
+            "time": "11:03",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "197",
+            "time": "11:06",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "197",
+            "time": "11:09",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "156",
+            "time": "11:20",
+            "action": "Roach x6"
+          },
+          {
+            "supply": "152",
+            "time": "11:28",
+            "action": "Roach x4"
+          },
+          {
+            "supply": "152",
+            "time": "11:29",
+            "action": "Ravager x3"
+          },
+          {
+            "supply": "152",
+            "time": "11:30",
+            "action": "Ravager"
+          },
+          {
+            "supply": "152",
+            "time": "11:31",
+            "action": "Ravager x2"
+          },
+          {
+            "supply": "152",
+            "time": "11:32",
+            "action": "Ravager x2"
+          },
+          {
+            "supply": "168",
+            "time": "11:36",
+            "action": "Ravager"
+          },
+          {
+            "supply": "168",
+            "time": "11:37",
+            "action": "Ravager x5"
+          },
+          {
+            "supply": "168",
+            "time": "11:38",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "175",
+            "time": "11:43",
+            "action": "Drone x5"
+          },
+          {
+            "supply": "175",
+            "time": "11:45",
+            "action": "Roach"
+          },
+          {
+            "supply": "182",
+            "time": "11:52",
+            "action": "Roach x4"
+          },
+          {
+            "supply": "190",
+            "time": "11:55",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "193",
+            "time": "12:04",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "195",
+            "time": "12:09",
+            "action": "Roach"
+          },
+          {
+            "supply": "195",
+            "time": "12:11",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "195",
+            "time": "12:13",
+            "action": "Roach x6"
+          },
+          {
+            "supply": "178",
+            "time": "12:19",
+            "action": "Roach x4,Zergling x2"
+          },
+          {
+            "supply": "173",
+            "time": "12:23",
+            "action": "Roach x2"
+          },
+          {
+            "supply": "173",
+            "time": "12:28",
+            "action": "Zergling x12"
+          },
+          {
+            "supply": "180",
+            "time": "12:34",
+            "action": "Greater Spire"
+          },
+          {
+            "supply": "180",
+            "time": "12:35",
+            "action": "Drone x3"
+          },
+          {
+            "supply": "183",
+            "time": "12:45",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "183",
+            "time": "12:46",
+            "action": "Drone"
+          },
+          {
+            "supply": "188",
+            "time": "12:52",
+            "action": "Spine Crawler"
+          },
+          {
+            "supply": "183",
+            "time": "13:01",
+            "action": "Zergling x18"
+          },
+          {
+            "supply": "190",
+            "time": "13:08",
+            "action": "Roach x4"
+          },
+          {
+            "supply": "189",
+            "time": "13:22",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "189",
+            "time": "13:23",
+            "action": "Zergling x18"
+          },
+          {
+            "supply": "192",
+            "time": "13:46",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "189",
+            "time": "13:51",
+            "action": "Brood Lord x2"
+          },
+          {
+            "supply": "189",
+            "time": "13:55",
+            "action": "Spore Crawler"
+          },
+          {
+            "supply": "190",
+            "time": "13:56",
+            "action": "Spore Crawler,Brood Lord"
+          },
+          {
+            "supply": "190",
+            "time": "13:57",
+            "action": "Spore Crawler x2"
+          },
+          {
+            "supply": "190",
+            "time": "13:58",
+            "action": "Brood Lord x2,Spore Crawler x2"
+          },
+          {
+            "supply": "191",
+            "time": "14:03",
+            "action": "Spine Crawler"
+          },
+          {
+            "supply": "191",
+            "time": "14:05",
+            "action": "Zerg Melee Weapons Level 1"
+          },
+          {
+            "supply": "191",
+            "time": "14:06",
+            "action": "Spore Crawler"
+          },
+          {
+            "supply": "191",
+            "time": "14:07",
+            "action": "Brood Lord"
+          },
+          {
+            "supply": "192",
+            "time": "14:36",
+            "action": "Neural Parasite"
+          },
+          {
+            "supply": "192",
+            "time": "14:37",
+            "action": "Zerg Flyer Weapons Level 2"
+          },
+          {
+            "supply": "191",
+            "time": "14:54",
+            "action": "Overlord"
+          },
+          {
+            "supply": "191",
+            "time": "14:55",
+            "action": "Adrenal Glands"
+          },
+          {
+            "supply": "191",
+            "time": "15:01",
+            "action": "Overseer"
+          },
+          {
+            "supply": "191",
+            "time": "15:02",
+            "action": "Overseer"
+          },
+          {
+            "supply": "191",
+            "time": "15:05",
+            "action": "Infestor x4"
+          },
+          {
+            "supply": "197",
+            "time": "15:13",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "185",
+            "time": "15:24",
+            "action": "Infestor x5"
+          },
+          {
+            "supply": "185",
+            "time": "15:26",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "185",
+            "time": "15:28",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "175",
+            "time": "15:35",
+            "action": "Corruptor x3"
+          },
+          {
+            "supply": "167",
+            "time": "15:37",
+            "action": "Queen"
+          },
+          {
+            "supply": "167",
+            "time": "15:38",
+            "action": "Queen x3"
+          },
+          {
+            "supply": "181",
+            "time": "15:46",
+            "action": "Corruptor x3,Spore Crawler x3"
+          },
+          {
+            "supply": "183",
+            "time": "15:54",
+            "action": "Zergling x18"
+          },
+          {
+            "supply": "188",
+            "time": "16:02",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "188",
+            "time": "16:03",
+            "action": "Corruptor x2"
+          },
+          {
+            "supply": "184",
+            "time": "16:14",
+            "action": "Corruptor x3"
+          },
+          {
+            "supply": "190",
+            "time": "16:21",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "190",
+            "time": "16:24",
+            "action": "Overlord"
+          },
+          {
+            "supply": "189",
+            "time": "16:26",
+            "action": "Overlord x2"
+          },
+          {
+            "supply": "189",
+            "time": "16:27",
+            "action": "Overlord"
+          },
+          {
+            "supply": "189",
+            "time": "16:28",
+            "action": "Overseer"
+          },
+          {
+            "supply": "189",
+            "time": "16:46",
+            "action": "Brood Lord x2"
+          },
+          {
+            "supply": "193",
+            "time": "16:47",
+            "action": "Brood Lord"
+          },
+          {
+            "supply": "193",
+            "time": "16:48",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "193",
+            "time": "16:53",
+            "action": "Burrow"
+          },
+          {
+            "supply": "197",
+            "time": "16:57",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "198",
+            "time": "17:05",
+            "action": "Drone"
+          },
+          {
+            "supply": "182",
+            "time": "17:33",
+            "action": "Corruptor x3"
+          },
+          {
+            "supply": "182",
+            "time": "17:36",
+            "action": "Queen x2"
+          },
+          {
+            "supply": "177",
+            "time": "17:46",
+            "action": "Corruptor x2"
+          },
+          {
+            "supply": "177",
+            "time": "17:49",
+            "action": "Infestor x2"
+          },
+          {
+            "supply": "185",
+            "time": "17:52",
+            "action": "Drone"
+          },
+          {
+            "supply": "176",
+            "time": "18:16",
+            "action": "Infestor"
+          },
+          {
+            "supply": "176",
+            "time": "18:18",
+            "action": "Brood Lord"
+          },
+          {
+            "supply": "115",
+            "time": "18:42",
+            "action": "Zergling x32"
+          }
+        ]
+      },
+      {
+        "name": "Zoun",
+        "race": "Protoss",
+        "build_order": [
+          {
+            "supply": "12",
+            "time": "0:00",
+            "action": "Probe"
+          },
+          {
+            "supply": "13",
+            "time": "0:12",
+            "action": "Probe"
+          },
+          {
+            "supply": "14",
+            "time": "0:17",
+            "action": "Pylon"
+          },
+          {
+            "supply": "14",
+            "time": "0:24",
+            "action": "Probe"
+          },
+          {
+            "supply": "15",
+            "time": "0:32",
+            "action": "Probe"
+          },
+          {
+            "supply": "15",
+            "time": "0:38",
+            "action": "Gateway"
+          },
+          {
+            "supply": "15",
+            "time": "0:40",
+            "action": "Probe"
+          },
+          {
+            "supply": "16",
+            "time": "0:45",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "17",
+            "time": "0:51",
+            "action": "Probe"
+          },
+          {
+            "supply": "18",
+            "time": "1:03",
+            "action": "Probe"
+          },
+          {
+            "supply": "19",
+            "time": "1:15",
+            "action": "Probe,Pylon"
+          },
+          {
+            "supply": "20",
+            "time": "1:19",
+            "action": "Gateway"
+          },
+          {
+            "supply": "20",
+            "time": "1:26",
+            "action": "Cybernetics Core"
+          },
+          {
+            "supply": "20",
+            "time": "1:27",
+            "action": "Probe"
+          },
+          {
+            "supply": "21",
+            "time": "1:33",
+            "action": "Pylon"
+          },
+          {
+            "supply": "21",
+            "time": "1:39",
+            "action": "Probe"
+          },
+          {
+            "supply": "22",
+            "time": "1:43",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "22",
+            "time": "1:52",
+            "action": "Probe"
+          },
+          {
+            "supply": "17",
+            "time": "1:54",
+            "action": "Adept"
+          },
+          {
+            "supply": "23",
+            "time": "1:56",
+            "action": "Adept"
+          },
+          {
+            "supply": "23",
+            "time": "2:04",
+            "action": "Probe"
+          },
+          {
+            "supply": "28",
+            "time": "2:16",
+            "action": "Warp Gate"
+          },
+          {
+            "supply": "28",
+            "time": "2:17",
+            "action": "Probe"
+          },
+          {
+            "supply": "29",
+            "time": "2:25",
+            "action": "Pylon"
+          },
+          {
+            "supply": "29",
+            "time": "2:35",
+            "action": "Adept"
+          },
+          {
+            "supply": "31",
+            "time": "2:44",
+            "action": "Nexus"
+          },
+          {
+            "supply": "31",
+            "time": "2:54",
+            "action": "Stargate"
+          },
+          {
+            "supply": "31",
+            "time": "2:57",
+            "action": "Probe"
+          },
+          {
+            "supply": "32",
+            "time": "3:05",
+            "action": "Sentry"
+          },
+          {
+            "supply": "34",
+            "time": "3:09",
+            "action": "Probe"
+          },
+          {
+            "supply": "34",
+            "time": "3:10",
+            "action": "Phoenix"
+          },
+          {
+            "supply": "35",
+            "time": "3:13",
+            "action": "Shield Battery"
+          },
+          {
+            "supply": "35",
+            "time": "3:19",
+            "action": "Stalker"
+          },
+          {
+            "supply": "35",
+            "time": "3:22",
+            "action": "Pylon"
+          },
+          {
+            "supply": "35",
+            "time": "3:25",
+            "action": "Probe"
+          },
+          {
+            "supply": "38",
+            "time": "3:38",
+            "action": "Probe"
+          },
+          {
+            "supply": "38",
+            "time": "3:40",
+            "action": "Oracle"
+          },
+          {
+            "supply": "42",
+            "time": "3:50",
+            "action": "Probe"
+          },
+          {
+            "supply": "42",
+            "time": "3:53",
+            "action": "Probe"
+          },
+          {
+            "supply": "43",
+            "time": "4:01",
+            "action": "Probe"
+          },
+          {
+            "supply": "43",
+            "time": "4:02",
+            "action": "Probe"
+          },
+          {
+            "supply": "45",
+            "time": "4:08",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "46",
+            "time": "4:10",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "46",
+            "time": "4:11",
+            "action": "Probe"
+          },
+          {
+            "supply": "46",
+            "time": "4:14",
+            "action": "Probe"
+          },
+          {
+            "supply": "48",
+            "time": "4:23",
+            "action": "Probe,Fleet Beacon"
+          },
+          {
+            "supply": "49",
+            "time": "4:26",
+            "action": "Probe"
+          },
+          {
+            "supply": "50",
+            "time": "4:35",
+            "action": "Probe"
+          },
+          {
+            "supply": "51",
+            "time": "4:39",
+            "action": "Probe"
+          },
+          {
+            "supply": "51",
+            "time": "4:45",
+            "action": "Stargate"
+          },
+          {
+            "supply": "52",
+            "time": "4:47",
+            "action": "Probe"
+          },
+          {
+            "supply": "52",
+            "time": "4:51",
+            "action": "Probe"
+          },
+          {
+            "supply": "54",
+            "time": "4:57",
+            "action": "Tempest"
+          },
+          {
+            "supply": "54",
+            "time": "4:59",
+            "action": "Nexus,Probe"
+          },
+          {
+            "supply": "55",
+            "time": "5:03",
+            "action": "Pylon"
+          },
+          {
+            "supply": "55",
+            "time": "5:05",
+            "action": "Probe"
+          },
+          {
+            "supply": "56",
+            "time": "5:12",
+            "action": "Pylon"
+          },
+          {
+            "supply": "60",
+            "time": "5:19",
+            "action": "Probe,Tempest"
+          },
+          {
+            "supply": "60",
+            "time": "5:20",
+            "action": "Probe"
+          },
+          {
+            "supply": "62",
+            "time": "5:32",
+            "action": "Probe,Tempest"
+          },
+          {
+            "supply": "67",
+            "time": "5:36",
+            "action": "Probe"
+          },
+          {
+            "supply": "68",
+            "time": "5:44",
+            "action": "Probe"
+          },
+          {
+            "supply": "68",
+            "time": "5:46",
+            "action": "Pylon"
+          },
+          {
+            "supply": "68",
+            "time": "5:48",
+            "action": "Probe"
+          },
+          {
+            "supply": "74",
+            "time": "5:57",
+            "action": "Probe"
+          },
+          {
+            "supply": "74",
+            "time": "6:01",
+            "action": "Tempest"
+          },
+          {
+            "supply": "74",
+            "time": "6:02",
+            "action": "Probe,Shield Battery"
+          },
+          {
+            "supply": "76",
+            "time": "6:09",
+            "action": "Tempest"
+          },
+          {
+            "supply": "80",
+            "time": "6:13",
+            "action": "Probe"
+          },
+          {
+            "supply": "80",
+            "time": "6:15",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "87",
+            "time": "6:25",
+            "action": "Probe"
+          },
+          {
+            "supply": "87",
+            "time": "6:27",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "90",
+            "time": "6:35",
+            "action": "Pylon"
+          },
+          {
+            "supply": "90",
+            "time": "6:38",
+            "action": "Probe"
+          },
+          {
+            "supply": "90",
+            "time": "6:39",
+            "action": "Probe"
+          },
+          {
+            "supply": "93",
+            "time": "6:40",
+            "action": "Probe"
+          },
+          {
+            "supply": "97",
+            "time": "6:50",
+            "action": "Probe,Twilight Council"
+          },
+          {
+            "supply": "97",
+            "time": "6:51",
+            "action": "Forge,Probe"
+          },
+          {
+            "supply": "99",
+            "time": "6:56",
+            "action": "Probe"
+          },
+          {
+            "supply": "99",
+            "time": "6:58",
+            "action": "Unknown"
+          },
+          {
+            "supply": "96",
+            "time": "7:01",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "96",
+            "time": "7:02",
+            "action": "Probe,Assimilator"
+          },
+          {
+            "supply": "96",
+            "time": "7:03",
+            "action": "Pylon"
+          },
+          {
+            "supply": "96",
+            "time": "7:04",
+            "action": "Probe"
+          },
+          {
+            "supply": "96",
+            "time": "7:06",
+            "action": "Gateway"
+          },
+          {
+            "supply": "96",
+            "time": "7:07",
+            "action": "Gateway"
+          },
+          {
+            "supply": "96",
+            "time": "7:08",
+            "action": "Probe"
+          },
+          {
+            "supply": "99",
+            "time": "7:10",
+            "action": "Gateway"
+          },
+          {
+            "supply": "99",
+            "time": "7:12",
+            "action": "Gateway"
+          },
+          {
+            "supply": "99",
+            "time": "7:13",
+            "action": "Protoss Ground Weapons Level 1"
+          },
+          {
+            "supply": "99",
+            "time": "7:14",
+            "action": "Probe"
+          },
+          {
+            "supply": "100",
+            "time": "7:15",
+            "action": "Gateway"
+          },
+          {
+            "supply": "100",
+            "time": "7:17",
+            "action": "Gateway,Charge"
+          },
+          {
+            "supply": "100",
+            "time": "7:23",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "100",
+            "time": "7:29",
+            "action": "Templar Archives"
+          },
+          {
+            "supply": "102",
+            "time": "7:38",
+            "action": "Probe"
+          },
+          {
+            "supply": "102",
+            "time": "7:41",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "102",
+            "time": "7:43",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "99",
+            "time": "7:52",
+            "action": "Zealot"
+          },
+          {
+            "supply": "99",
+            "time": "7:53",
+            "action": "Photon Cannon,Zealot"
+          },
+          {
+            "supply": "103",
+            "time": "8:00",
+            "action": "Pylon"
+          },
+          {
+            "supply": "103",
+            "time": "8:02",
+            "action": "Zealot x2"
+          },
+          {
+            "supply": "107",
+            "time": "8:06",
+            "action": "Gateway,Psionic Storm"
+          },
+          {
+            "supply": "107",
+            "time": "8:07",
+            "action": "High Templar x2,Pylon,Gateway"
+          },
+          {
+            "supply": "107",
+            "time": "8:12",
+            "action": "Archon"
+          },
+          {
+            "supply": "111",
+            "time": "8:15",
+            "action": "Shield Battery"
+          },
+          {
+            "supply": "111",
+            "time": "8:17",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "111",
+            "time": "8:18",
+            "action": "Pylon"
+          },
+          {
+            "supply": "111",
+            "time": "8:21",
+            "action": "High Templar"
+          },
+          {
+            "supply": "111",
+            "time": "8:22",
+            "action": "High Templar x3,Gateway"
+          },
+          {
+            "supply": "111",
+            "time": "8:25",
+            "action": "Photon Cannon,Archon"
+          },
+          {
+            "supply": "111",
+            "time": "8:26",
+            "action": "Archon,Gateway,Zealot x2"
+          },
+          {
+            "supply": "123",
+            "time": "8:34",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "123",
+            "time": "8:36",
+            "action": "Shield Battery"
+          },
+          {
+            "supply": "123",
+            "time": "8:37",
+            "action": "Robotics Facility"
+          },
+          {
+            "supply": "123",
+            "time": "8:41",
+            "action": "Pylon x2"
+          },
+          {
+            "supply": "123",
+            "time": "8:45",
+            "action": "Stalker x2"
+          },
+          {
+            "supply": "127",
+            "time": "8:54",
+            "action": "Nexus"
+          },
+          {
+            "supply": "127",
+            "time": "8:57",
+            "action": "High Templar x2"
+          },
+          {
+            "supply": "127",
+            "time": "8:58",
+            "action": "Protoss Ground Armor Level 1,Pylon"
+          },
+          {
+            "supply": "131",
+            "time": "9:04",
+            "action": "High Templar"
+          },
+          {
+            "supply": "131",
+            "time": "9:09",
+            "action": "Pylon"
+          },
+          {
+            "supply": "133",
+            "time": "9:14",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "133",
+            "time": "9:16",
+            "action": "High Templar"
+          },
+          {
+            "supply": "145",
+            "time": "9:19",
+            "action": "Observer"
+          },
+          {
+            "supply": "145",
+            "time": "9:20",
+            "action": "Shield Battery"
+          },
+          {
+            "supply": "145",
+            "time": "9:22",
+            "action": "Blink"
+          },
+          {
+            "supply": "145",
+            "time": "9:23",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "145",
+            "time": "9:28",
+            "action": "Zealot x2"
+          },
+          {
+            "supply": "150",
+            "time": "9:49",
+            "action": "Zealot x7"
+          },
+          {
+            "supply": "152",
+            "time": "10:02",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "150",
+            "time": "10:13",
+            "action": "Immortal"
+          },
+          {
+            "supply": "148",
+            "time": "10:18",
+            "action": "High Templar x2"
+          },
+          {
+            "supply": "148",
+            "time": "10:24",
+            "action": "Archon,Nexus"
+          },
+          {
+            "supply": "148",
+            "time": "10:25",
+            "action": "High Templar x2,Zealot"
+          },
+          {
+            "supply": "148",
+            "time": "10:26",
+            "action": "Zealot"
+          },
+          {
+            "supply": "148",
+            "time": "10:29",
+            "action": "Pylon"
+          },
+          {
+            "supply": "148",
+            "time": "10:32",
+            "action": "Archon"
+          },
+          {
+            "supply": "148",
+            "time": "10:39",
+            "action": "High Templar x2"
+          },
+          {
+            "supply": "150",
+            "time": "10:43",
+            "action": "Archon"
+          },
+          {
+            "supply": "150",
+            "time": "10:49",
+            "action": "Zealot x6"
+          },
+          {
+            "supply": "162",
+            "time": "10:52",
+            "action": "Pylon"
+          },
+          {
+            "supply": "162",
+            "time": "10:56",
+            "action": "Archon"
+          },
+          {
+            "supply": "157",
+            "time": "11:02",
+            "action": "Zealot x4"
+          },
+          {
+            "supply": "139",
+            "time": "11:11",
+            "action": "Zealot x6"
+          },
+          {
+            "supply": "120",
+            "time": "11:15",
+            "action": "Zealot x2"
+          },
+          {
+            "supply": "114",
+            "time": "11:21",
+            "action": "Immortal"
+          },
+          {
+            "supply": "106",
+            "time": "11:26",
+            "action": "High Templar x4"
+          },
+          {
+            "supply": "106",
+            "time": "11:32",
+            "action": "Nexus"
+          },
+          {
+            "supply": "118",
+            "time": "11:39",
+            "action": "Sentry"
+          },
+          {
+            "supply": "120",
+            "time": "11:42",
+            "action": "Zealot x4"
+          },
+          {
+            "supply": "128",
+            "time": "11:47",
+            "action": "High Templar x2"
+          },
+          {
+            "supply": "128",
+            "time": "11:49",
+            "action": "High Templar"
+          },
+          {
+            "supply": "128",
+            "time": "11:51",
+            "action": "Archon"
+          },
+          {
+            "supply": "134",
+            "time": "11:58",
+            "action": "Stalker"
+          },
+          {
+            "supply": "134",
+            "time": "12:04",
+            "action": "Zealot x3"
+          },
+          {
+            "supply": "133",
+            "time": "12:12",
+            "action": "Archon"
+          },
+          {
+            "supply": "133",
+            "time": "12:13",
+            "action": "Archon"
+          },
+          {
+            "supply": "123",
+            "time": "12:16",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "133",
+            "time": "12:27",
+            "action": "High Templar"
+          },
+          {
+            "supply": "133",
+            "time": "12:28",
+            "action": "High Templar x3"
+          },
+          {
+            "supply": "135",
+            "time": "12:31",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "135",
+            "time": "12:32",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "135",
+            "time": "12:36",
+            "action": "Zealot x2"
+          },
+          {
+            "supply": "135",
+            "time": "12:37",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "147",
+            "time": "12:42",
+            "action": "Protoss Ground Weapons Level 2"
+          },
+          {
+            "supply": "151",
+            "time": "12:49",
+            "action": "Zealot"
+          },
+          {
+            "supply": "153",
+            "time": "12:52",
+            "action": "Tempest x2"
+          },
+          {
+            "supply": "151",
+            "time": "13:05",
+            "action": "Probe x4"
+          },
+          {
+            "supply": "163",
+            "time": "13:10",
+            "action": "Zealot x4"
+          },
+          {
+            "supply": "165",
+            "time": "13:25",
+            "action": "Tempest x2"
+          },
+          {
+            "supply": "157",
+            "time": "13:36",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "157",
+            "time": "13:38",
+            "action": "Assimilator,Pylon,High Templar"
+          },
+          {
+            "supply": "157",
+            "time": "13:39",
+            "action": "High Templar,Zealot x4"
+          },
+          {
+            "supply": "171",
+            "time": "13:44",
+            "action": "Archon"
+          },
+          {
+            "supply": "169",
+            "time": "13:51",
+            "action": "High Templar"
+          },
+          {
+            "supply": "169",
+            "time": "13:55",
+            "action": "Archon,Observer"
+          },
+          {
+            "supply": "168",
+            "time": "13:56",
+            "action": "Archon,Zealot x5"
+          },
+          {
+            "supply": "179",
+            "time": "14:03",
+            "action": "High Templar"
+          },
+          {
+            "supply": "179",
+            "time": "14:06",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "179",
+            "time": "14:08",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "181",
+            "time": "14:10",
+            "action": "Shield Battery"
+          },
+          {
+            "supply": "179",
+            "time": "14:19",
+            "action": "Observer"
+          },
+          {
+            "supply": "179",
+            "time": "14:22",
+            "action": "High Templar"
+          },
+          {
+            "supply": "179",
+            "time": "14:23",
+            "action": "High Templar"
+          },
+          {
+            "supply": "180",
+            "time": "14:26",
+            "action": "Tempest x2"
+          },
+          {
+            "supply": "184",
+            "time": "14:40",
+            "action": "Nexus,Immortal"
+          },
+          {
+            "supply": "184",
+            "time": "14:43",
+            "action": "Pylon"
+          },
+          {
+            "supply": "184",
+            "time": "14:52",
+            "action": "High Templar"
+          },
+          {
+            "supply": "184",
+            "time": "14:59",
+            "action": "Protoss Ground Weapons Level 3"
+          },
+          {
+            "supply": "184",
+            "time": "15:02",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "194",
+            "time": "15:10",
+            "action": "Shield Battery"
+          },
+          {
+            "supply": "194",
+            "time": "15:12",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "194",
+            "time": "15:13",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "194",
+            "time": "15:18",
+            "action": "Mothership"
+          },
+          {
+            "supply": "184",
+            "time": "15:32",
+            "action": "Zealot x4"
+          },
+          {
+            "supply": "184",
+            "time": "15:54",
+            "action": "Observer"
+          },
+          {
+            "supply": "184",
+            "time": "15:56",
+            "action": "Immortal"
+          },
+          {
+            "supply": "184",
+            "time": "16:10",
+            "action": "High Templar x4"
+          },
+          {
+            "supply": "192",
+            "time": "16:14",
+            "action": "Observer,Archon x2"
+          },
+          {
+            "supply": "192",
+            "time": "16:18",
+            "action": "Robotics Facility"
+          },
+          {
+            "supply": "186",
+            "time": "16:22",
+            "action": "Protoss Air Weapons Level 1"
+          },
+          {
+            "supply": "186",
+            "time": "16:24",
+            "action": "Oracle"
+          },
+          {
+            "supply": "185",
+            "time": "16:27",
+            "action": "Stargate"
+          },
+          {
+            "supply": "185",
+            "time": "16:28",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "185",
+            "time": "16:32",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "185",
+            "time": "16:34",
+            "action": "Warp Prism"
+          },
+          {
+            "supply": "185",
+            "time": "16:35",
+            "action": "Zealot"
+          },
+          {
+            "supply": "185",
+            "time": "16:36",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "199",
+            "time": "16:45",
+            "action": "Pylon"
+          },
+          {
+            "supply": "199",
+            "time": "17:24",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "199",
+            "time": "17:25",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "197",
+            "time": "17:34",
+            "action": "High Templar x3"
+          },
+          {
+            "supply": "197",
+            "time": "17:41",
+            "action": "High Templar x2"
+          },
+          {
+            "supply": "195",
+            "time": "17:44",
+            "action": "Archon"
+          },
+          {
+            "supply": "195",
+            "time": "17:46",
+            "action": "Zealot x6"
+          },
+          {
+            "supply": "199",
+            "time": "18:05",
+            "action": "Zealot"
+          },
+          {
+            "supply": "165",
+            "time": "18:17",
+            "action": "Zealot x9"
+          },
+          {
+            "supply": "173",
+            "time": "18:39",
+            "action": "Stalker x12"
+          }
+        ]
+      }
+    ],
+    "matchup": "ZvP",
+    "map": "10000 Feet LE",
+    "date_played": "Jan. 30, 2026, 6:41 a.m.",
+    "game_length": "19:06",
+    "title": "Lambo v Zoun: Game 2 - 10000 Feet LE",
+    "searched_player": "Zoun"
+  },
+  {
+    "replay_id": 88963,
+    "url": "https://lotv.spawningtool.com/88963/",
+    "players": [
+      {
+        "name": "VITZoun (Zoun)",
+        "race": "Protoss",
+        "build_order": [
+          {
+            "supply": "12",
+            "time": "0:00",
+            "action": "Probe"
+          },
+          {
+            "supply": "13",
+            "time": "0:12",
+            "action": "Probe"
+          },
+          {
+            "supply": "14",
+            "time": "0:17",
+            "action": "Pylon"
+          },
+          {
+            "supply": "14",
+            "time": "0:24",
+            "action": "Probe"
+          },
+          {
+            "supply": "15",
+            "time": "0:32",
+            "action": "Probe"
+          },
+          {
+            "supply": "15",
+            "time": "0:39",
+            "action": "Gateway"
+          },
+          {
+            "supply": "15",
+            "time": "0:40",
+            "action": "Probe"
+          },
+          {
+            "supply": "17",
+            "time": "0:50",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "17",
+            "time": "0:51",
+            "action": "Probe"
+          },
+          {
+            "supply": "18",
+            "time": "1:03",
+            "action": "Probe"
+          },
+          {
+            "supply": "19",
+            "time": "1:15",
+            "action": "Probe"
+          },
+          {
+            "supply": "20",
+            "time": "1:25",
+            "action": "Nexus"
+          },
+          {
+            "supply": "20",
+            "time": "1:35",
+            "action": "Cybernetics Core"
+          },
+          {
+            "supply": "20",
+            "time": "1:38",
+            "action": "Probe"
+          },
+          {
+            "supply": "21",
+            "time": "1:47",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "21",
+            "time": "1:50",
+            "action": "Probe"
+          },
+          {
+            "supply": "22",
+            "time": "1:54",
+            "action": "Pylon"
+          },
+          {
+            "supply": "22",
+            "time": "2:02",
+            "action": "Adept,Probe"
+          },
+          {
+            "supply": "23",
+            "time": "2:14",
+            "action": "Probe"
+          },
+          {
+            "supply": "26",
+            "time": "2:22",
+            "action": "Stargate"
+          },
+          {
+            "supply": "26",
+            "time": "2:26",
+            "action": "Probe"
+          },
+          {
+            "supply": "27",
+            "time": "2:31",
+            "action": "Warp Gate"
+          },
+          {
+            "supply": "27",
+            "time": "2:36",
+            "action": "Adept"
+          },
+          {
+            "supply": "29",
+            "time": "2:37",
+            "action": "Probe"
+          },
+          {
+            "supply": "29",
+            "time": "2:38",
+            "action": "Probe"
+          },
+          {
+            "supply": "29",
+            "time": "2:43",
+            "action": "Pylon"
+          },
+          {
+            "supply": "31",
+            "time": "2:45",
+            "action": "Probe"
+          },
+          {
+            "supply": "31",
+            "time": "2:49",
+            "action": "Probe"
+          },
+          {
+            "supply": "32",
+            "time": "2:55",
+            "action": "Probe"
+          },
+          {
+            "supply": "32",
+            "time": "2:56",
+            "action": "Oracle"
+          },
+          {
+            "supply": "34",
+            "time": "3:08",
+            "action": "Probe"
+          },
+          {
+            "supply": "34",
+            "time": "3:12",
+            "action": "Probe"
+          },
+          {
+            "supply": "39",
+            "time": "3:15",
+            "action": "Adept"
+          },
+          {
+            "supply": "39",
+            "time": "3:18",
+            "action": "Gateway"
+          },
+          {
+            "supply": "41",
+            "time": "3:20",
+            "action": "Probe"
+          },
+          {
+            "supply": "41",
+            "time": "3:22",
+            "action": "Pylon"
+          },
+          {
+            "supply": "41",
+            "time": "3:26",
+            "action": "Probe"
+          },
+          {
+            "supply": "43",
+            "time": "3:30",
+            "action": "Oracle"
+          },
+          {
+            "supply": "43",
+            "time": "3:32",
+            "action": "Probe"
+          },
+          {
+            "supply": "44",
+            "time": "3:39",
+            "action": "Probe"
+          },
+          {
+            "supply": "48",
+            "time": "3:45",
+            "action": "Probe"
+          },
+          {
+            "supply": "49",
+            "time": "3:51",
+            "action": "Probe"
+          },
+          {
+            "supply": "50",
+            "time": "3:57",
+            "action": "Probe"
+          },
+          {
+            "supply": "51",
+            "time": "4:02",
+            "action": "Nexus"
+          },
+          {
+            "supply": "51",
+            "time": "4:03",
+            "action": "Probe"
+          },
+          {
+            "supply": "51",
+            "time": "4:04",
+            "action": "Pylon"
+          },
+          {
+            "supply": "51",
+            "time": "4:09",
+            "action": "Probe"
+          },
+          {
+            "supply": "53",
+            "time": "4:13",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "53",
+            "time": "4:15",
+            "action": "Assimilator,Probe"
+          },
+          {
+            "supply": "54",
+            "time": "4:22",
+            "action": "Adept x2"
+          },
+          {
+            "supply": "58",
+            "time": "4:24",
+            "action": "Shield Battery,Probe"
+          },
+          {
+            "supply": "58",
+            "time": "4:27",
+            "action": "Probe"
+          },
+          {
+            "supply": "60",
+            "time": "4:36",
+            "action": "Probe"
+          },
+          {
+            "supply": "60",
+            "time": "4:37",
+            "action": "Twilight Council"
+          },
+          {
+            "supply": "61",
+            "time": "4:38",
+            "action": "Forge"
+          },
+          {
+            "supply": "61",
+            "time": "4:39",
+            "action": "Probe"
+          },
+          {
+            "supply": "61",
+            "time": "4:45",
+            "action": "Pylon"
+          },
+          {
+            "supply": "62",
+            "time": "5:00",
+            "action": "Gateway x2"
+          },
+          {
+            "supply": "62",
+            "time": "5:02",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "62",
+            "time": "5:04",
+            "action": "Blink"
+          },
+          {
+            "supply": "62",
+            "time": "5:05",
+            "action": "Stalker"
+          },
+          {
+            "supply": "62",
+            "time": "5:07",
+            "action": "Stalker"
+          },
+          {
+            "supply": "64",
+            "time": "5:13",
+            "action": "Protoss Ground Weapons Level 1"
+          },
+          {
+            "supply": "60",
+            "time": "5:14",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "60",
+            "time": "5:16",
+            "action": "Probe"
+          },
+          {
+            "supply": "60",
+            "time": "5:25",
+            "action": "Probe"
+          },
+          {
+            "supply": "60",
+            "time": "5:26",
+            "action": "Probe"
+          },
+          {
+            "supply": "60",
+            "time": "5:27",
+            "action": "Probe"
+          },
+          {
+            "supply": "62",
+            "time": "5:28",
+            "action": "Stalker"
+          },
+          {
+            "supply": "62",
+            "time": "5:32",
+            "action": "Stalker"
+          },
+          {
+            "supply": "62",
+            "time": "5:33",
+            "action": "Probe"
+          },
+          {
+            "supply": "62",
+            "time": "5:35",
+            "action": "Probe"
+          },
+          {
+            "supply": "67",
+            "time": "5:38",
+            "action": "Probe"
+          },
+          {
+            "supply": "67",
+            "time": "5:40",
+            "action": "Gateway"
+          },
+          {
+            "supply": "67",
+            "time": "5:41",
+            "action": "Probe"
+          },
+          {
+            "supply": "70",
+            "time": "5:43",
+            "action": "Probe"
+          },
+          {
+            "supply": "70",
+            "time": "5:44",
+            "action": "Gateway"
+          },
+          {
+            "supply": "70",
+            "time": "5:49",
+            "action": "Pylon"
+          },
+          {
+            "supply": "72",
+            "time": "5:50",
+            "action": "Probe"
+          },
+          {
+            "supply": "72",
+            "time": "5:53",
+            "action": "Stalker,Probe"
+          },
+          {
+            "supply": "72",
+            "time": "5:56",
+            "action": "Probe"
+          },
+          {
+            "supply": "76",
+            "time": "6:04",
+            "action": "Stalker x2"
+          },
+          {
+            "supply": "76",
+            "time": "6:05",
+            "action": "Pylon"
+          },
+          {
+            "supply": "76",
+            "time": "6:07",
+            "action": "Probe"
+          },
+          {
+            "supply": "76",
+            "time": "6:09",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "81",
+            "time": "6:11",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "81",
+            "time": "6:13",
+            "action": "Pylon"
+          },
+          {
+            "supply": "81",
+            "time": "6:16",
+            "action": "Probe"
+          },
+          {
+            "supply": "82",
+            "time": "6:23",
+            "action": "Fleet Beacon"
+          },
+          {
+            "supply": "82",
+            "time": "6:24",
+            "action": "Pylon"
+          },
+          {
+            "supply": "82",
+            "time": "6:25",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "84",
+            "time": "6:28",
+            "action": "Probe"
+          },
+          {
+            "supply": "85",
+            "time": "6:34",
+            "action": "Stargate"
+          },
+          {
+            "supply": "85",
+            "time": "6:36",
+            "action": "Gateway"
+          },
+          {
+            "supply": "85",
+            "time": "6:37",
+            "action": "Gateway"
+          },
+          {
+            "supply": "85",
+            "time": "6:40",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "85",
+            "time": "6:42",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "85",
+            "time": "6:45",
+            "action": "Stalker"
+          },
+          {
+            "supply": "89",
+            "time": "6:48",
+            "action": "Stalker"
+          },
+          {
+            "supply": "89",
+            "time": "6:54",
+            "action": "Pylon,Robotics Facility"
+          },
+          {
+            "supply": "91",
+            "time": "6:57",
+            "action": "Carrier"
+          },
+          {
+            "supply": "91",
+            "time": "6:59",
+            "action": "Charge"
+          },
+          {
+            "supply": "91",
+            "time": "7:00",
+            "action": "Mothership"
+          },
+          {
+            "supply": "91",
+            "time": "7:02",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "91",
+            "time": "7:03",
+            "action": "Shield Battery"
+          },
+          {
+            "supply": "99",
+            "time": "7:20",
+            "action": "Protoss Ground Weapons Level 2"
+          },
+          {
+            "supply": "105",
+            "time": "7:29",
+            "action": "Carrier"
+          },
+          {
+            "supply": "111",
+            "time": "7:39",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "111",
+            "time": "7:42",
+            "action": "Observer"
+          },
+          {
+            "supply": "114",
+            "time": "7:48",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "114",
+            "time": "7:49",
+            "action": "Nexus"
+          },
+          {
+            "supply": "114",
+            "time": "7:50",
+            "action": "Pylon"
+          },
+          {
+            "supply": "114",
+            "time": "7:52",
+            "action": "Carrier"
+          },
+          {
+            "supply": "114",
+            "time": "8:04",
+            "action": "Probe"
+          },
+          {
+            "supply": "114",
+            "time": "8:05",
+            "action": "Probe"
+          },
+          {
+            "supply": "122",
+            "time": "8:08",
+            "action": "Pylon,Shield Battery"
+          },
+          {
+            "supply": "122",
+            "time": "8:10",
+            "action": "Photon Cannon,Pylon"
+          },
+          {
+            "supply": "122",
+            "time": "8:13",
+            "action": "Protoss Air Weapons Level 1"
+          },
+          {
+            "supply": "122",
+            "time": "8:18",
+            "action": "Zealot x4"
+          },
+          {
+            "supply": "130",
+            "time": "8:26",
+            "action": "Zealot x3"
+          },
+          {
+            "supply": "136",
+            "time": "8:34",
+            "action": "Carrier"
+          },
+          {
+            "supply": "142",
+            "time": "8:42",
+            "action": "Stalker x3"
+          },
+          {
+            "supply": "142",
+            "time": "8:46",
+            "action": "Probe"
+          },
+          {
+            "supply": "149",
+            "time": "8:49",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "149",
+            "time": "8:51",
+            "action": "Templar Archives"
+          },
+          {
+            "supply": "149",
+            "time": "8:55",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "149",
+            "time": "9:02",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "143",
+            "time": "9:07",
+            "action": "Zealot"
+          },
+          {
+            "supply": "143",
+            "time": "9:08",
+            "action": "Zealot"
+          },
+          {
+            "supply": "137",
+            "time": "9:10",
+            "action": "Psionic Storm"
+          },
+          {
+            "supply": "137",
+            "time": "9:15",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "137",
+            "time": "9:16",
+            "action": "Carrier"
+          },
+          {
+            "supply": "137",
+            "time": "9:19",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "137",
+            "time": "9:22",
+            "action": "Assimilator"
+          },
+          {
+            "supply": "139",
+            "time": "9:27",
+            "action": "Probe"
+          },
+          {
+            "supply": "146",
+            "time": "9:37",
+            "action": "Zealot x3"
+          },
+          {
+            "supply": "147",
+            "time": "9:42",
+            "action": "Probe x3"
+          },
+          {
+            "supply": "147",
+            "time": "9:44",
+            "action": "Protoss Ground Weapons Level 3"
+          },
+          {
+            "supply": "147",
+            "time": "9:45",
+            "action": "High Templar x3"
+          },
+          {
+            "supply": "154",
+            "time": "9:47",
+            "action": "High Templar"
+          },
+          {
+            "supply": "154",
+            "time": "9:50",
+            "action": "Probe"
+          },
+          {
+            "supply": "157",
+            "time": "9:54",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "159",
+            "time": "10:01",
+            "action": "Zealot x2"
+          },
+          {
+            "supply": "159",
+            "time": "10:05",
+            "action": "Zealot x2"
+          },
+          {
+            "supply": "163",
+            "time": "10:10",
+            "action": "Probe"
+          },
+          {
+            "supply": "163",
+            "time": "10:11",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "164",
+            "time": "10:14",
+            "action": "Pylon"
+          },
+          {
+            "supply": "164",
+            "time": "10:15",
+            "action": "Pylon"
+          },
+          {
+            "supply": "164",
+            "time": "10:17",
+            "action": "Pylon"
+          },
+          {
+            "supply": "164",
+            "time": "10:24",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "164",
+            "time": "10:30",
+            "action": "Probe x2"
+          },
+          {
+            "supply": "163",
+            "time": "10:40",
+            "action": "Archon x2"
+          },
+          {
+            "supply": "163",
+            "time": "10:43",
+            "action": "High Templar x3,Nexus"
+          },
+          {
+            "supply": "163",
+            "time": "10:44",
+            "action": "High Templar x2"
+          },
+          {
+            "supply": "163",
+            "time": "10:47",
+            "action": "Pylon,Archon x2"
+          },
+          {
+            "supply": "173",
+            "time": "10:51",
+            "action": "Pylon"
+          },
+          {
+            "supply": "173",
+            "time": "10:54",
+            "action": "Observer"
+          },
+          {
+            "supply": "173",
+            "time": "10:56",
+            "action": "Pylon"
+          },
+          {
+            "supply": "173",
+            "time": "10:57",
+            "action": "Pylon"
+          },
+          {
+            "supply": "173",
+            "time": "11:02",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "173",
+            "time": "11:03",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "173",
+            "time": "11:04",
+            "action": "Shield Battery"
+          },
+          {
+            "supply": "173",
+            "time": "11:07",
+            "action": "High Templar x3"
+          },
+          {
+            "supply": "179",
+            "time": "11:12",
+            "action": "Observer"
+          },
+          {
+            "supply": "179",
+            "time": "11:17",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "190",
+            "time": "11:27",
+            "action": "Carrier"
+          },
+          {
+            "supply": "196",
+            "time": "11:38",
+            "action": "Gateway"
+          },
+          {
+            "supply": "196",
+            "time": "11:40",
+            "action": "Gateway"
+          },
+          {
+            "supply": "196",
+            "time": "11:56",
+            "action": "Zealot x5"
+          },
+          {
+            "supply": "196",
+            "time": "11:58",
+            "action": "Zealot x3"
+          },
+          {
+            "supply": "155",
+            "time": "12:11",
+            "action": "Immortal"
+          },
+          {
+            "supply": "141",
+            "time": "12:20",
+            "action": "High Templar x2,Zealot x5"
+          },
+          {
+            "supply": "149",
+            "time": "12:27",
+            "action": "Photon Cannon"
+          },
+          {
+            "supply": "149",
+            "time": "12:28",
+            "action": "Probe"
+          },
+          {
+            "supply": "150",
+            "time": "12:31",
+            "action": "High Templar"
+          },
+          {
+            "supply": "150",
+            "time": "12:32",
+            "action": "Photon Cannon"
+          }
+        ]
+      },
+      {
+        "name": "FalconsSolar (Solar)",
+        "race": "Zerg",
+        "build_order": [
+          {
+            "supply": "12",
+            "time": "0:00",
+            "action": "Drone"
+          },
+          {
+            "supply": "13",
+            "time": "0:08",
+            "action": "Drone"
+          },
+          {
+            "supply": "14",
+            "time": "0:16",
+            "action": "Extractor,Drone"
+          },
+          {
+            "supply": "15",
+            "time": "0:22",
+            "action": "Overlord"
+          },
+          {
+            "supply": "15",
+            "time": "0:41",
+            "action": "Drone"
+          },
+          {
+            "supply": "16",
+            "time": "0:47",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "15",
+            "time": "0:51",
+            "action": "Drone"
+          },
+          {
+            "supply": "15",
+            "time": "0:55",
+            "action": "Drone"
+          },
+          {
+            "supply": "17",
+            "time": "0:58",
+            "action": "Drone"
+          },
+          {
+            "supply": "18",
+            "time": "1:11",
+            "action": "Extractor"
+          },
+          {
+            "supply": "17",
+            "time": "1:14",
+            "action": "Spawning Pool"
+          },
+          {
+            "supply": "17",
+            "time": "1:16",
+            "action": "Drone"
+          },
+          {
+            "supply": "17",
+            "time": "1:20",
+            "action": "Drone"
+          },
+          {
+            "supply": "18",
+            "time": "1:29",
+            "action": "Drone"
+          },
+          {
+            "supply": "19",
+            "time": "1:37",
+            "action": "Drone"
+          },
+          {
+            "supply": "20",
+            "time": "1:48",
+            "action": "Drone"
+          },
+          {
+            "supply": "21",
+            "time": "2:00",
+            "action": "Queen x2"
+          },
+          {
+            "supply": "21",
+            "time": "2:01",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "26",
+            "time": "2:04",
+            "action": "Overlord"
+          },
+          {
+            "supply": "26",
+            "time": "2:10",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "28",
+            "time": "2:15",
+            "action": "Metabolic Boost"
+          },
+          {
+            "supply": "28",
+            "time": "2:23",
+            "action": "Zergling x2,Drone"
+          },
+          {
+            "supply": "30",
+            "time": "2:36",
+            "action": "Queen"
+          },
+          {
+            "supply": "32",
+            "time": "2:45",
+            "action": "Drone"
+          },
+          {
+            "supply": "33",
+            "time": "2:51",
+            "action": "Hatchery,Overlord"
+          },
+          {
+            "supply": "33",
+            "time": "2:56",
+            "action": "Drone x3"
+          },
+          {
+            "supply": "34",
+            "time": "3:05",
+            "action": "Spore Crawler"
+          },
+          {
+            "supply": "33",
+            "time": "3:09",
+            "action": "Drone x5"
+          },
+          {
+            "supply": "39",
+            "time": "3:13",
+            "action": "Overlord"
+          },
+          {
+            "supply": "39",
+            "time": "3:16",
+            "action": "Drone"
+          },
+          {
+            "supply": "39",
+            "time": "3:17",
+            "action": "Drone"
+          },
+          {
+            "supply": "39",
+            "time": "3:18",
+            "action": "Drone"
+          },
+          {
+            "supply": "42",
+            "time": "3:21",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "43",
+            "time": "3:28",
+            "action": "Spore Crawler,Drone"
+          },
+          {
+            "supply": "43",
+            "time": "3:32",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "44",
+            "time": "3:34",
+            "action": "Queen"
+          },
+          {
+            "supply": "44",
+            "time": "3:39",
+            "action": "Queen"
+          },
+          {
+            "supply": "48",
+            "time": "3:42",
+            "action": "Drone"
+          },
+          {
+            "supply": "48",
+            "time": "3:47",
+            "action": "Overlord"
+          },
+          {
+            "supply": "49",
+            "time": "3:48",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "49",
+            "time": "3:53",
+            "action": "Spore Crawler"
+          },
+          {
+            "supply": "50",
+            "time": "4:00",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "51",
+            "time": "4:03",
+            "action": "Evolution Chamber,Drone x2"
+          },
+          {
+            "supply": "51",
+            "time": "4:05",
+            "action": "Drone"
+          },
+          {
+            "supply": "51",
+            "time": "4:06",
+            "action": "Drone"
+          },
+          {
+            "supply": "51",
+            "time": "4:08",
+            "action": "Drone"
+          },
+          {
+            "supply": "55",
+            "time": "4:15",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "59",
+            "time": "4:19",
+            "action": "Drone"
+          },
+          {
+            "supply": "59",
+            "time": "4:23",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "62",
+            "time": "4:27",
+            "action": "Queen"
+          },
+          {
+            "supply": "64",
+            "time": "4:31",
+            "action": "Zerg Melee Weapons Level 1"
+          },
+          {
+            "supply": "64",
+            "time": "4:34",
+            "action": "Drone"
+          },
+          {
+            "supply": "64",
+            "time": "4:36",
+            "action": "Overlord"
+          },
+          {
+            "supply": "65",
+            "time": "4:38",
+            "action": "Extractor"
+          },
+          {
+            "supply": "65",
+            "time": "4:40",
+            "action": "Baneling Nest,Drone"
+          },
+          {
+            "supply": "65",
+            "time": "4:43",
+            "action": "Drone"
+          },
+          {
+            "supply": "65",
+            "time": "4:49",
+            "action": "Spore Crawler"
+          },
+          {
+            "supply": "65",
+            "time": "4:50",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "65",
+            "time": "4:51",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "65",
+            "time": "4:55",
+            "action": "Zergling x8"
+          },
+          {
+            "supply": "70",
+            "time": "5:02",
+            "action": "Drone x3"
+          },
+          {
+            "supply": "70",
+            "time": "5:03",
+            "action": "Drone"
+          },
+          {
+            "supply": "70",
+            "time": "5:08",
+            "action": "Drone"
+          },
+          {
+            "supply": "70",
+            "time": "5:11",
+            "action": "Drone x3"
+          },
+          {
+            "supply": "71",
+            "time": "5:14",
+            "action": "Overlord"
+          },
+          {
+            "supply": "71",
+            "time": "5:15",
+            "action": "Drone"
+          },
+          {
+            "supply": "71",
+            "time": "5:18",
+            "action": "Drone"
+          },
+          {
+            "supply": "72",
+            "time": "5:21",
+            "action": "Lair"
+          },
+          {
+            "supply": "72",
+            "time": "5:27",
+            "action": "Overlord"
+          },
+          {
+            "supply": "72",
+            "time": "5:28",
+            "action": "Drone"
+          },
+          {
+            "supply": "72",
+            "time": "5:33",
+            "action": "Drone"
+          },
+          {
+            "supply": "72",
+            "time": "5:34",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "72",
+            "time": "5:35",
+            "action": "Drone"
+          },
+          {
+            "supply": "79",
+            "time": "5:41",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "81",
+            "time": "5:46",
+            "action": "Hatchery"
+          },
+          {
+            "supply": "81",
+            "time": "5:47",
+            "action": "Drone"
+          },
+          {
+            "supply": "81",
+            "time": "5:50",
+            "action": "Extractor"
+          },
+          {
+            "supply": "81",
+            "time": "5:51",
+            "action": "Zergling x8"
+          },
+          {
+            "supply": "81",
+            "time": "5:52",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "81",
+            "time": "5:55",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "81",
+            "time": "5:56",
+            "action": "Extractor"
+          },
+          {
+            "supply": "85",
+            "time": "5:58",
+            "action": "Zergling x2,Extractor"
+          },
+          {
+            "supply": "85",
+            "time": "6:00",
+            "action": "Drone"
+          },
+          {
+            "supply": "85",
+            "time": "6:01",
+            "action": "Drone"
+          },
+          {
+            "supply": "85",
+            "time": "6:02",
+            "action": "Drone"
+          },
+          {
+            "supply": "85",
+            "time": "6:03",
+            "action": "Drone"
+          },
+          {
+            "supply": "89",
+            "time": "6:05",
+            "action": "Overlord"
+          },
+          {
+            "supply": "89",
+            "time": "6:09",
+            "action": "Overlord"
+          },
+          {
+            "supply": "89",
+            "time": "6:12",
+            "action": "Overlord"
+          },
+          {
+            "supply": "89",
+            "time": "6:16",
+            "action": "Overlord"
+          },
+          {
+            "supply": "89",
+            "time": "6:24",
+            "action": "Drone x7"
+          },
+          {
+            "supply": "96",
+            "time": "6:25",
+            "action": "Hydralisk Den"
+          },
+          {
+            "supply": "96",
+            "time": "6:28",
+            "action": "Drone"
+          },
+          {
+            "supply": "96",
+            "time": "6:33",
+            "action": "Overseer"
+          },
+          {
+            "supply": "96",
+            "time": "6:35",
+            "action": "Zerg Missile Weapons Level 1"
+          },
+          {
+            "supply": "96",
+            "time": "6:36",
+            "action": "Drone x4"
+          },
+          {
+            "supply": "96",
+            "time": "6:37",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "101",
+            "time": "6:41",
+            "action": "Zergling x14"
+          },
+          {
+            "supply": "108",
+            "time": "6:51",
+            "action": "Drone x3"
+          },
+          {
+            "supply": "111",
+            "time": "6:59",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "111",
+            "time": "7:00",
+            "action": "Drone"
+          },
+          {
+            "supply": "111",
+            "time": "7:01",
+            "action": "Drone"
+          },
+          {
+            "supply": "115",
+            "time": "7:04",
+            "action": "Grooved Spines"
+          },
+          {
+            "supply": "115",
+            "time": "7:05",
+            "action": "Overlord"
+          },
+          {
+            "supply": "115",
+            "time": "7:06",
+            "action": "Hatchery,Centrifugal Hooks,Drone"
+          },
+          {
+            "supply": "115",
+            "time": "7:08",
+            "action": "Hydralisk x2"
+          },
+          {
+            "supply": "115",
+            "time": "7:13",
+            "action": "Overlord x3"
+          },
+          {
+            "supply": "119",
+            "time": "7:19",
+            "action": "Overlord"
+          },
+          {
+            "supply": "119",
+            "time": "7:22",
+            "action": "Overlord"
+          },
+          {
+            "supply": "119",
+            "time": "7:24",
+            "action": "Hydralisk x3"
+          },
+          {
+            "supply": "125",
+            "time": "7:30",
+            "action": "Overseer"
+          },
+          {
+            "supply": "125",
+            "time": "7:31",
+            "action": "Hydralisk x3"
+          },
+          {
+            "supply": "125",
+            "time": "7:35",
+            "action": "Hydralisk x2"
+          },
+          {
+            "supply": "134",
+            "time": "7:37",
+            "action": "Hydralisk x2"
+          },
+          {
+            "supply": "134",
+            "time": "7:39",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "134",
+            "time": "7:41",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "134",
+            "time": "7:42",
+            "action": "Extractor"
+          },
+          {
+            "supply": "134",
+            "time": "7:43",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "141",
+            "time": "7:46",
+            "action": "Zergling x8"
+          },
+          {
+            "supply": "141",
+            "time": "7:48",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "141",
+            "time": "7:49",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "141",
+            "time": "7:50",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "151",
+            "time": "7:54",
+            "action": "Hydralisk x2,Muscular Augments"
+          },
+          {
+            "supply": "151",
+            "time": "7:58",
+            "action": "Hydralisk,Overlord"
+          },
+          {
+            "supply": "155",
+            "time": "8:00",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "155",
+            "time": "8:01",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "155",
+            "time": "8:02",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "163",
+            "time": "8:06",
+            "action": "Baneling x3"
+          },
+          {
+            "supply": "163",
+            "time": "8:08",
+            "action": "Baneling"
+          },
+          {
+            "supply": "163",
+            "time": "8:10",
+            "action": "Zergling x10"
+          },
+          {
+            "supply": "168",
+            "time": "8:13",
+            "action": "Overlord"
+          },
+          {
+            "supply": "168",
+            "time": "8:18",
+            "action": "Baneling x6"
+          },
+          {
+            "supply": "168",
+            "time": "8:19",
+            "action": "Zergling x12"
+          },
+          {
+            "supply": "174",
+            "time": "8:21",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "174",
+            "time": "8:22",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "174",
+            "time": "8:26",
+            "action": "Baneling x5,Zergling x6"
+          },
+          {
+            "supply": "177",
+            "time": "8:31",
+            "action": "Zergling x8"
+          },
+          {
+            "supply": "177",
+            "time": "8:33",
+            "action": "Overseer x2"
+          },
+          {
+            "supply": "175",
+            "time": "8:38",
+            "action": "Pneumatized Carapace"
+          },
+          {
+            "supply": "175",
+            "time": "8:39",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "175",
+            "time": "8:41",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "163",
+            "time": "8:42",
+            "action": "Zergling x10"
+          },
+          {
+            "supply": "163",
+            "time": "8:44",
+            "action": "Overlord"
+          },
+          {
+            "supply": "163",
+            "time": "8:46",
+            "action": "Baneling"
+          },
+          {
+            "supply": "163",
+            "time": "8:47",
+            "action": "Baneling x2"
+          },
+          {
+            "supply": "167",
+            "time": "8:49",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "167",
+            "time": "8:50",
+            "action": "Zergling x4,Hydralisk"
+          },
+          {
+            "supply": "170",
+            "time": "8:55",
+            "action": "Hydralisk x2"
+          },
+          {
+            "supply": "170",
+            "time": "8:57",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "170",
+            "time": "9:00",
+            "action": "Overseer"
+          },
+          {
+            "supply": "170",
+            "time": "9:01",
+            "action": "Hydralisk x2"
+          },
+          {
+            "supply": "156",
+            "time": "9:05",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "156",
+            "time": "9:08",
+            "action": "Zergling x10"
+          },
+          {
+            "supply": "141",
+            "time": "9:10",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "141",
+            "time": "9:13",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "124",
+            "time": "9:17",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "124",
+            "time": "9:18",
+            "action": "Spire"
+          },
+          {
+            "supply": "124",
+            "time": "9:19",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "124",
+            "time": "9:21",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "124",
+            "time": "9:22",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "128",
+            "time": "9:25",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "128",
+            "time": "9:27",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "128",
+            "time": "9:29",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "128",
+            "time": "9:30",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "134",
+            "time": "9:32",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "134",
+            "time": "9:36",
+            "action": "Zergling x8"
+          },
+          {
+            "supply": "140",
+            "time": "9:40",
+            "action": "Zergling x8"
+          },
+          {
+            "supply": "140",
+            "time": "9:42",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "144",
+            "time": "9:48",
+            "action": "Drone"
+          },
+          {
+            "supply": "144",
+            "time": "9:49",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "144",
+            "time": "9:50",
+            "action": "Overlord"
+          },
+          {
+            "supply": "144",
+            "time": "9:51",
+            "action": "Zergling x10"
+          },
+          {
+            "supply": "144",
+            "time": "9:52",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "153",
+            "time": "9:55",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "153",
+            "time": "9:56",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "153",
+            "time": "9:58",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "154",
+            "time": "10:09",
+            "action": "Baneling x2"
+          },
+          {
+            "supply": "154",
+            "time": "10:10",
+            "action": "Baneling x5"
+          },
+          {
+            "supply": "153",
+            "time": "10:14",
+            "action": "Drone"
+          },
+          {
+            "supply": "153",
+            "time": "10:18",
+            "action": "Zergling x8"
+          },
+          {
+            "supply": "153",
+            "time": "10:20",
+            "action": "Drone"
+          },
+          {
+            "supply": "160",
+            "time": "10:21",
+            "action": "Drone x2"
+          },
+          {
+            "supply": "160",
+            "time": "10:22",
+            "action": "Extractor"
+          },
+          {
+            "supply": "160",
+            "time": "10:24",
+            "action": "Zerg Flyer Armor Level 1,Corruptor x5"
+          },
+          {
+            "supply": "170",
+            "time": "10:33",
+            "action": "Corruptor x3"
+          },
+          {
+            "supply": "170",
+            "time": "10:35",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "173",
+            "time": "10:41",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "160",
+            "time": "10:43",
+            "action": "Zergling x12"
+          },
+          {
+            "supply": "160",
+            "time": "10:46",
+            "action": "Baneling x3"
+          },
+          {
+            "supply": "160",
+            "time": "10:48",
+            "action": "Zergling x8"
+          },
+          {
+            "supply": "169",
+            "time": "10:50",
+            "action": "Baneling x2"
+          },
+          {
+            "supply": "169",
+            "time": "10:51",
+            "action": "Baneling"
+          },
+          {
+            "supply": "169",
+            "time": "10:56",
+            "action": "Corruptor"
+          },
+          {
+            "supply": "171",
+            "time": "11:00",
+            "action": "Zergling x18"
+          },
+          {
+            "supply": "171",
+            "time": "11:02",
+            "action": "Baneling x4"
+          },
+          {
+            "supply": "180",
+            "time": "11:04",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "180",
+            "time": "11:05",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "180",
+            "time": "11:07",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "180",
+            "time": "11:09",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "180",
+            "time": "11:11",
+            "action": "Baneling x5"
+          },
+          {
+            "supply": "189",
+            "time": "11:12",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "189",
+            "time": "11:15",
+            "action": "Baneling x3"
+          },
+          {
+            "supply": "189",
+            "time": "11:18",
+            "action": "Zergling x12"
+          },
+          {
+            "supply": "196",
+            "time": "11:21",
+            "action": "Baneling x3"
+          },
+          {
+            "supply": "196",
+            "time": "11:23",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "197",
+            "time": "11:26",
+            "action": "Overlord"
+          },
+          {
+            "supply": "184",
+            "time": "11:33",
+            "action": "Zergling x16"
+          },
+          {
+            "supply": "184",
+            "time": "11:34",
+            "action": "Zergling x2,Overseer x4"
+          },
+          {
+            "supply": "184",
+            "time": "11:37",
+            "action": "Baneling x4"
+          },
+          {
+            "supply": "184",
+            "time": "11:38",
+            "action": "Baneling"
+          },
+          {
+            "supply": "190",
+            "time": "11:40",
+            "action": "Overlord,Overseer"
+          },
+          {
+            "supply": "190",
+            "time": "11:41",
+            "action": "Overlord"
+          },
+          {
+            "supply": "190",
+            "time": "11:45",
+            "action": "Zergling x10"
+          },
+          {
+            "supply": "195",
+            "time": "11:47",
+            "action": "Baneling x3"
+          },
+          {
+            "supply": "187",
+            "time": "11:55",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "187",
+            "time": "11:57",
+            "action": "Zergling x10"
+          },
+          {
+            "supply": "187",
+            "time": "11:59",
+            "action": "Hydralisk x2"
+          },
+          {
+            "supply": "154",
+            "time": "12:04",
+            "action": "Hydralisk x2"
+          },
+          {
+            "supply": "154",
+            "time": "12:05",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "154",
+            "time": "12:06",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "141",
+            "time": "12:08",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "141",
+            "time": "12:10",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "141",
+            "time": "12:12",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "141",
+            "time": "12:15",
+            "action": "Hydralisk"
+          },
+          {
+            "supply": "124",
+            "time": "12:18",
+            "action": "Zergling x6"
+          },
+          {
+            "supply": "119",
+            "time": "12:25",
+            "action": "Hydralisk x3"
+          },
+          {
+            "supply": "119",
+            "time": "12:30",
+            "action": "Zergling x4"
+          },
+          {
+            "supply": "119",
+            "time": "12:33",
+            "action": "Zergling x2"
+          },
+          {
+            "supply": "119",
+            "time": "12:34",
+            "action": "Zergling x2"
+          }
+        ]
+      }
+    ],
+    "matchup": "PvZ",
+    "map": "Mothership LE",
+    "date_played": "Nov. 13, 2025, 4:20 a.m.",
+    "game_length": "12:52",
+    "title": "Mothership LE",
+    "searched_player": "Zoun"
+  }
+]
